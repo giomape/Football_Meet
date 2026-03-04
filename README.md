@@ -1,6 +1,6 @@
-# Football Meet (Esame Maturità)
+# Football
 
-Football Meet is a web-based social networking platform designed to connect football players ('calciatori') and clubs ('società'). Developed as part of a high school final exam project ('Esame di Maturità'), it provides a complete ecosystem for users to create profiles, share updates, discover talent, and communicate with each other. The application leverages PHP for its backend logic and a MySQL database to store user data, posts, and relationships.
+Football Meet is a web-based social networking platform designed to connect football players ('calciatori') and clubs ('società'). It provides a complete ecosystem for users to create profiles, share updates, discover talent, and communicate with each other. The application leverages PHP for its backend logic and a MySQL database to store user data, posts, and relationships.
 
 ## Features
 
